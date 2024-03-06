@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Product Backlog",
+    "description": "A prioritized list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product.",
+    "image": "assets/images/product_backlog.png",
+    "example": "As a Product Owner, I want to have a clear list of features for my product, so that I can effectively communicate with stakeholders and development team."
+  },
+  {
+    "name": "Sprint",
+    "description": "A time-boxed period of development during which a potentially releasable product increment is created.",
+    "image": "assets/images/sprint.png",
+    "example": "In our two-week sprint, we aim to complete the user stories we've committed to, ensuring they meet our Definition of Done."
+  },
+  {
+    "name": "Daily Scrum",
+    "description": "A 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours.",
+    "image": "assets/images/daily_scrum.png",
+    "example": "During our Daily Scrum, each team member shares what they accomplished yesterday, what they plan to do today, and any obstacles they're facing."
+  },
+  {
+    "name": "Product Owner",
+    "description": "The person responsible for maximizing the value of the product and the work of the Development Team.",
+    "image": "assets/images/product_owner.png",
+    "example": "As a Product Owner, I work closely with stakeholders to understand their needs and prioritize the backlog to deliver maximum value."
+  },
+  {
+    "name": "Scrum Master",
+    "description": "The servant-leader for the Scrum Team, responsible for ensuring that Scrum is understood and enacted.",
+    "image": "assets/images/scrum_master.png",
+    "example": "As a Scrum Master, I facilitate Scrum events, remove impediments, and coach the team to improve continuously."
+  },
+  {
+    "name": "Sprint Planning",
+    "description": "An event where the Scrum Team collaborates to define the work to be performed in the Sprint.",
+    "image": "assets/images/sprint_planning.png",
+    "example": "During Sprint Planning, the team reviews the Product Backlog, selects items for the Sprint Backlog, and creates a plan for the Sprint."
+  },
+  {
+    "name": "Sprint Review",
+    "description": "An event where the Scrum Team and stakeholders review what was done in the Sprint and collaborate on what to do next.",
+    "image": "assets/images/sprint_review.png",
+    "example": "In our Sprint Review, we demonstrate the completed work to stakeholders, gather feedback, and discuss any changes needed."
+  },
+  {
+    "name": "Sprint Retrospective",
+    "description": "An event where the Scrum Team inspects itself and creates a plan for improvements to be enacted during the next Sprint.",
+    "image": "assets/images/sprint_retrospective.png",
+    "example": "During our Sprint Retrospective, we reflect on what went well, what could be improved, and commit to changes for the next Sprint."
+  },
+  {
+    "name": "Definition of Done",
+    "description": "A shared understanding of what it means for work to be complete and potentially releasable.",
+    "image": "assets/images/definition_of_done.png",
+    "example": "Our Definition of Done includes passing all acceptance criteria, code review, automated tests, and documentation."
+  },
+  {
+    "name": "User Story",
+    "description": "A short description of a feature told from the perspective of the person who desires the new capability.",
+    "image": "assets/images/user_story.png",
+    "example": "As a user, I want to be able to log in with my email and password, so that I can access personalized features."
+  }
+]
